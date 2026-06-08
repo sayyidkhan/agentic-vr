@@ -18,7 +18,7 @@ An agentic movie companion that lets viewers pause a scene and step into a livin
 
 ### Tagline
 
-Pause the movie. Step into the world.
+Pause the movie. Step into the reality.
 
 ### What it is
 
