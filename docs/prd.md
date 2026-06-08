@@ -22,7 +22,7 @@ Pause the movie. Step into the reality.
 
 ### What it is
 
-- A web app for interactive cinematic scene exploration
+- A web app for interactive cinematic scene exploration (landscape mode primarly)
 - A multi-agent system for scene analysis, character simulation, narration, and memory
 - A demo of how passive video can become an interactive experience
 
